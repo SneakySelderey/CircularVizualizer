@@ -1,2 +1,4 @@
-/New Microsoft Word Document.docx
-/~$w Microsoft Word Document.docx
+docs
+dist
+build
+main.spec
